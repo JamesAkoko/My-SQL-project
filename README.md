@@ -151,7 +151,7 @@ Focusing on high-demand and high-value skills is key to career growth in this fi
 ## 🚀 About Me
 I am an aspiring data analyst passionate about using data to solve real-world problems. This project showcases my ability to analyze datasets and extract meaningful insights.
 
-🔗 GitHub: https://github.com/JamesAkoko\
+🔗 GitHub: https://github.com/JamesAkoko
    Email: akokojames14@gmail.com
 
 ---
